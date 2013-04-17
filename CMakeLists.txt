@@ -1,10 +1,9 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 2.8.3)
 project(random_numbers)
 
 find_package(catkin REQUIRED)
-catkin_stack()
 
-catkin_project(${PROJECT_NAME}
+catkin_package(
   LIBRARIES ${PROJECT_NAME}
   INCLUDE_DIRS include
   )
@@ -26,8 +25,4 @@ install(TARGETS ${PROJECT_NAME}
 install(DIRECTORY include/
         DESTINATION include
         FILES_MATCHING PATTERN "*.h")
-
-# for compatibility with old build system
-install(FILES manifest.xml
-        DESTINATION share/${PROJECT_NAME})
 
