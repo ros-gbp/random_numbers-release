@@ -1,0 +1,12 @@
+Source: ros-hydro-random-numbers
+Section: misc
+Priority: extra
+Maintainer: "Ioan Sucan <isucan@willowgarage.com>"
+Build-Depends: debhelper (>= 7.0.50~), libboost-all-dev, ros-hydro-catkin
+Homepage: http://ros.org/wiki/random_numbers
+Standards-Version: 3.9.2
+
+Package: ros-hydro-random-numbers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev
+Description: This library contains wrappers for generating floating point values, integers, quaternions using boost libraries. The constructor of the wrapper is guaranteed to be thread safe and initialize its random number generator to a random seed. Seeds are obtained using a separate and different random number generator.
