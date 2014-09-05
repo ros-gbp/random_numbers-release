@@ -1,3 +1,24 @@
+## random_numbers (indigo) - 0.3.0-0
+
+The packages in the `random_numbers` repository were released into the `indigo` distro by running `/usr/bin/bloom-release random_numbers -t indigo -r indigo` on `Fri, 05 Sep 2014 22:45:59 -0000`
+
+The `random_numbers` package was released.
+
+Version of package(s) in repository `random_numbers`:
+- upstream repository: https://github.com/ros-planning/random_numbers
+- release repository: https://github.com/ros-gbp/random_numbers-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## random_numbers - 0.2.0-0
 
 User `isucan@isucan-glaptop0` released the packages in the `random_numbers` repository by running `/usr/bin/bloom-release -t indigo -r indigo --new-track random_numbers` on `Sun, 16 Feb 2014 10:36:29 -0000`
