@@ -1,3 +1,26 @@
+## random_numbers (kinetic) - 0.3.1-0
+
+The packages in the `random_numbers` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release random_numbers --track kinetic --rosdistro kinetic` on `Mon, 04 Apr 2016 19:37:10 -0000`
+
+The `random_numbers` package was released.
+
+Version of package(s) in repository `random_numbers`:
+
+- upstream repository: https://github.com/ros-planning/random_numbers
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## random_numbers (jade) - 0.3.0-0
 
 The packages in the `random_numbers` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade random_numbers` on `Wed, 22 Apr 2015 19:40:03 -0000`
