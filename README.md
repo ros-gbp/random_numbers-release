@@ -1,3 +1,26 @@
+## random_numbers (lunar) - 0.3.1-0
+
+The packages in the `random_numbers` repository were released into the `lunar` distro by running `/usr/bin/bloom-release random_numbers --track lunar --rosdistro lunar --new-track` on `Sun, 26 Mar 2017 02:51:05 -0000`
+
+The `random_numbers` package was released.
+
+Version of package(s) in repository `random_numbers`:
+
+- upstream repository: https://github.com/ros-planning/random_numbers
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## random_numbers (kinetic) - 0.3.1-0
 
 The packages in the `random_numbers` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release random_numbers --track kinetic --rosdistro kinetic` on `Mon, 04 Apr 2016 19:37:10 -0000`
