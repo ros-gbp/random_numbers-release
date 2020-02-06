@@ -1,3 +1,26 @@
+## random_numbers (noetic) - 0.3.2-1
+
+The packages in the `random_numbers` repository were released into the `noetic` distro by running `/home/steven/.local/bin/bloom-release -n -r noetic random_numbers --override-release-repository-push-url git@github.com:ros-gbp/random_numbers-release` on `Thu, 06 Feb 2020 23:00:29 -0000`
+
+The `random_numbers` package was released.
+
+Version of package(s) in repository `random_numbers`:
+
+- upstream repository: https://github.com/ros-planning/random_numbers.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## random_numbers (melodic) - 0.3.2-0
 
 The packages in the `random_numbers` repository were released into the `melodic` distro by running `/home/steven/.venvs/bloom-py3/bin/bloom-release random_numbers -t melodic -r melodic` on `Wed, 28 Feb 2018 16:24:05 -0000`
