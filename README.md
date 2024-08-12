@@ -1,3 +1,26 @@
+## random_numbers (noetic) - 0.3.3-1
+
+The packages in the `random_numbers` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic random_numbers` on `Mon, 12 Aug 2024 11:11:16 -0000`
+
+The `random_numbers` package was released.
+
+Version of package(s) in repository `random_numbers`:
+
+- upstream repository: https://github.com/ros-planning/random_numbers.git
+- release repository: https://github.com/ros-gbp/random_numbers-release.git
+- rosdistro version: `0.3.2-1`
+- old version: `0.3.2-1`
+- new version: `0.3.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## random_numbers (foxy) - 1.0.0-1
 
 The packages in the `random_numbers` repository were released into the `foxy` distro by running `/usr/bin/bloom-release random_numbers --rosdistro foxy` on `Tue, 14 Jul 2020 19:30:43 -0000`
