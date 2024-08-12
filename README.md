@@ -1,12 +1,11 @@
 # random_numbers
 
-*This branch has been ported to ROS 2.0*
-
 This library contains wrappers for generating floating point values, integers, quaternions using boost libraries.
 
 ## Build Status
 
-master branch: [![Build Status](https://travis-ci.org/ros-planning/random_numbers.png?branch=master)](https://travis-ci.org/ros-planning/random_numbers)
+[![BuildAndTest](https://github.com/ros-planning/random_numbers/actions/workflows/industrial_ci_action.yaml/badge.svg?branch=master)](https://github.com/ros-planning/random_numbers/actions/workflows/industrial_ci_action.yaml?branch=master)
+[![Format](https://github.com/ros-planning/random_numbers/actions/workflows/format.yaml/badge.svg?branch=master)](https://github.com/ros-planning/random_numbers/actions/workflows/format.yaml?branch=master)
 
 ## Features
 

@@ -2,12 +2,12 @@
 Changelog for package random_numbers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.0 (2020-07-10)
+0.3.3 (2024-08-12)
 ------------------
-* Fix ROS2 port (`#18 <https://github.com/ros-planning/random_numbers/issues/18>`_)
-* Update Travis for ROS2 (`#14 <https://github.com/ros-planning/random_numbers/issues/14>`_, `#16 <https://github.com/ros-planning/random_numbers/issues/16>`_)
+* Windows shared library support (`#27 <https://github.com/ros-planning/random_numbers/issues/27>`_/`#23 <https://github.com/ros-planning/random_numbers/pull/23>`_)
+* Bump required cmake version (`#19 <https://github.com/ros-planning/random_numbers/issues/19>`_)
 * Fix shared library install path (`#13 <https://github.com/ros-planning/random_numbers/issues/13>`_)
-* Contributors: Henning Kayser, Mike Lautman, Robert Haschke, Sean Yen
+* Contributors: Michael Görner, Robert Haschke, Sean Yen [MSFT], Silvio Traversaro
 
 0.3.2 (2018-02-27)
 ------------------
